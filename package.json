@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://gitcmnet.bithub.io/html1",
+  "homepage": "https://gitcmnet.github.io/html1",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
